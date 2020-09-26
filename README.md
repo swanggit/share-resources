@@ -7,6 +7,8 @@ LINUX SHELL脚本攻略(中文版带书签).pdf
 
 LinuxProbe.pdf (适合初学linux）
 
+算法导论.pdf
+
 ## OCR后
 LINU_shell_ocr.pdf
 
