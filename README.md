@@ -8,7 +8,4 @@
 
 * LinuxProbe.pdf (**适合初学linux**）
 
-* 算法导论 .pdf
-
-![图片](C:\Users\admin\github-cangku\share-resources\philly-magic-garden.9c0b4415.jpg)
-
+* 算法导论(**第三版**).pdf
