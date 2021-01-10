@@ -10,7 +10,11 @@
 
 * 算法导论(**第三版**).pdf
 
-* 第一本DOCKER书 修订版 _JAMES TURBULL著 _P264.pdf.tar.gz、
+* 第一本DOCKER书 修订版 _JAMES TURBULL著 _P264.pdf.tar.gz
+
+* sed_and_awk_101_hacks_chinese_edition.pdf
+
+  sed和awk101种技巧
 
   ## OCR后
 
