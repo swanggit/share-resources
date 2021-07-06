@@ -14,7 +14,11 @@
 
 * sed_and_awk_101_hacks_chinese_edition.pdf
 
-  sed和awk101种技巧
+* sed和awk101种技巧
+
+* 现实不似你所见.pdf  “让物理变得性感的男人，下一个斯蒂芬·霍金”引爆科普阅读热潮！现象级科学读物《七堂极简物理课》进阶版)”
+
+* 
 
   ## OCR后
 
